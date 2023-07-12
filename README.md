@@ -1,3 +1,3 @@
 # react_projects
 
-This contains react project
+Basic React projects 
